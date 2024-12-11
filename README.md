@@ -1,5 +1,10 @@
-# cartas-de-recomendacao
-Repo Cartas de recomendação
+-----
+
+<img alt="cartas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cartas-de-recomendacao2.png?raw=true"/>
+
+-----
+
+# Repo Cartas de recomendação
 
 Caro aluno,
 
