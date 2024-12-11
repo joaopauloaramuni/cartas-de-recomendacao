@@ -1,6 +1,6 @@
 -----
 
-<img alt="cartas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cartas-de-recomendacao2.png?raw=true"/>
+<img alt="cartas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cartas-de-recomendacao.png?raw=true"/>
 
 -----
 
