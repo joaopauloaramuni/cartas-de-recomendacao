@@ -17,3 +17,11 @@ Se você está planejando dar continuidade aos seus estudos, seja em programas d
 Uma carta de recomendação é um documento escrito por alguém que conhece bem o candidato, como um professor, supervisor ou mentor, e tem a função de apoiar a candidatura para uma vaga em programas acadêmicos, como pós-graduação, mestrado, doutorado, ou até oportunidades de emprego.
 
 A carta destaca as qualidades, habilidades e experiências do candidato que o tornam apto para a posição desejada. Ela pode incluir aspectos como desempenho acadêmico, capacidade de trabalhar em equipe, habilidades de comunicação, responsabilidade, entre outros pontos relevantes para o contexto. Essa recomendação ajuda a dar uma visão externa e confiável sobre o candidato, complementando seu currículo e demais documentos.
+
+-----
+
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
+</div>
+
+-----
