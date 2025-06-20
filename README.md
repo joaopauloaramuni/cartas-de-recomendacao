@@ -1,5 +1,9 @@
 -----
 
+<img alt="pucminas" src="https://joaopauloaramuni.github.io/image/FUNDOCOREUCAPA2.svg?raw=true"/>
+
+-----
+
 <img alt="cartas" src="https://joaopauloaramuni.github.io/image/cartas-de-recomendacao2.png?raw=true"/>
 
 -----
