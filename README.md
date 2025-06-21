@@ -4,10 +4,6 @@
 
 -----
 
-<img alt="cartas" src="https://joaopauloaramuni.github.io/image/cartas-de-recomendacao2.png?raw=true"/>
-
------
-
 # Repo Cartas de recomendação
 
 Caro aluno,
@@ -23,5 +19,9 @@ A carta destaca as qualidades, habilidades e experiências do candidato que o to
 <div align="center">
   <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
 </div>
+
+-----
+
+<img alt="cartas" src="https://joaopauloaramuni.github.io/image/cartas-de-recomendacao2.png?raw=true"/>
 
 -----
